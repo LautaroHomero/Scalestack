@@ -1,0 +1,44 @@
+Company: Scalestack
+Position: Python Developer
+
+Assignment Overview
+We are excited to see your skills and problem-solving abilities in action! Your task is to create a Python script that retrieves the LinkedIn URL of a company starting from the company name and an optional extra parameter which is a company domain.
+
+Assignment Details
+Objective:
+Develop a Python script that:
+Takes a company name as input.
+Optionally, take a company domain as input.
+Retrieves the LinkedIn URL for the given company.
+Verifies that the LinkedIn URL belongs to the intended company.
+
+Example:
+Company name: Scalestack
+Company domain (optional): Scalestack.ai
+Company LinkedinUR you need to get to: https://www.linkedin.com/company/scalestackhq/
+
+Requirements
+Input:
+Company Name (required)
+Company Domain (optional)
+Output:
+LinkedIn URL of the company
+Functionality:
+The script should handle cases where the company domain is not provided.
+The script should be robust and handle exceptions gracefully.
+The script should verify that the retrieved LinkedIn URL belongs to the input company.
+The script should return a clear and concise LinkedIn URL if found, or an appropriate message if not found.
+Data Quality:
+Ensure that the company identified through the LinkedIn URL matches the input company name and domain.
+Documentation:
+Provide clear comments within the code for easy review.
+
+Resources
+Everything you can find online is fair game (API, open source project, snippets even AI if you want, really anything!). Candidates can also use Scalestack APIs for this task. For example:
+Scalestack API Example 
+This API returns various data points from the LinkedIn page obtained.
+API Key sent separately. 
+
+
+
+apiKey=xlIA6rY6xka7FiHWT7LrbaIQnbTCRxlu4IQUKJPh
